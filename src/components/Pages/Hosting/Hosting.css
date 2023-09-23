@@ -1,0 +1,40 @@
+.container{
+    text-align: center;
+    margin-top: 2rem;
+}
+.flex-row{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5rem;
+}
+
+.box{
+    border: 1px solid gray;
+    padding: 1em;
+    width:250px;
+    text-align: center;
+    text-decoration: none;
+   
+}
+.box h3{
+    font-size: 20px;
+    
+}
+.selected{
+    background-color: rgb(5, 5, 247);
+    color: white;
+
+}
+.box:hover{
+    background-color: blue;
+    color: white;
+    
+}
+.link:hover{
+    color: white;
+    
+}
+.link{
+    text-decoration: none;
+    color: black;
+}

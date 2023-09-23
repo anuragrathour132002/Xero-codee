@@ -1,0 +1,31 @@
+.container{
+    margin-left: 7em;
+    margin-top: 5rem;
+    
+}
+
+.picture{
+    float: right;
+    margin-right: 5rem;
+    margin-top: -2rem;
+}
+
+#edit{
+    margin-top: 5rem;
+    margin-left: 18rem;
+}
+#edit h5{
+    text-align: center;
+}
+.s-button{
+    width: 200px;
+    background-color: white;
+    padding: 0.5em;
+}
+.s-social-btn{
+    display: flex;
+    flex-direction: row;
+    
+    font-size: 14px;
+    }
+    
